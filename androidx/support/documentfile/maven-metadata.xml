@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>androidx.support.provider</groupId>
+  <groupId>androidx.support</groupId>
   <artifactId>documentfile</artifactId>
   <versioning>
-    <release>30.0.3</release>
+    <release>29.0.1</release>
     <versions>
-      <version>30.0.3</version>
+      <version>29.0.1</version>
     </versions>
-    <lastUpdated>20210331102743</lastUpdated>
+    <lastUpdated>20210331105933</lastUpdated>
   </versioning>
 </metadata>
